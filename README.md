@@ -18,7 +18,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-%237952B3?style=flat-square&logo=bootstrap&logoColor=white">
 
 
-
+<div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Miguelalv22&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="165" alt="languages graph"  />
 </div>
 
