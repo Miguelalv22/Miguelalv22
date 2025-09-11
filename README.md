@@ -1,3 +1,4 @@
+<div display='flex' >
 <h1>Hello there :robot:, I'm Miguel</h1>
 
 <h5>Frontend Dev | Platzi Student :computer:</h5>
@@ -19,4 +20,5 @@
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Miguelalv22&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false" height="165" alt="languages graph"  />
+</div>
 </div>
